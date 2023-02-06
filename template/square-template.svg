@@ -1,7 +1,8 @@
-<svg width="391" height="391" viewBox="-70.5 -70.5 391 391" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<rect fill="#fff" stroke="#000" x="-70" y="-70" width="390" height="390"/>
-<g opacity="0.8">
-	<rect x="25" y="25" width="200" height="200" fill="lime" stroke-width="4" stroke="pink" />
-	
-</g>
-</svg>
+
+<svg version="1.1" width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+
+   <rect x="25" y="25" width="200" height="200"/>
+  
+    <text x="125" y="130" font-size="60" text-anchor="middle" fill="white">SVG</text>
+  
+  </svg>
