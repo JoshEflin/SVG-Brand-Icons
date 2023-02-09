@@ -1,4 +1,5 @@
-// ## User Story
+const cli = require ('./lib/cli');
+ cli()
 
 // ```md
 // AS a web developer
