@@ -27,7 +27,11 @@ This repositor features code that prompts a user for input and generates an SVG 
 
  ## Tests
  If you would like to test, you will need to install Jest and run the script 'npm run test' inside the root folder. The current tests as written check to make sure that the javascript files that render shapes return valid XML
+ ## Video
+ Click this link to see the application in ACTION!
 
+ https://youtu.be/gV9OxbcsOnA
+ 
  ## Questions
 
  Feel free to peruse my git hub profile here:
